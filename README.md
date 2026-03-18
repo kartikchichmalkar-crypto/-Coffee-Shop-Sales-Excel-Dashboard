@@ -3,7 +3,7 @@
 
 This Excel dashboard provides a comprehensive analysis of coffee shop sales performance. It helps track revenue, product performance, customer trends, and sales patterns through interactive visuals and easy-to-understand metrics.
 
-# 🎯 Objectives
+## 🎯 Objectives
 
 Monitor overall sales performance
 
@@ -15,7 +15,7 @@ Track sales trends over time
 
 Support business decision-making
 
-# 🗂️ Dataset
+## 🗂️ Dataset
 
 The dataset used in this dashboard may include:
 
@@ -33,7 +33,7 @@ Store Location (if applicable)
 
 (Update based on your actual dataset fields)
 
-# 📈 Features & Visuals
+## 📈 Features & Visuals
 
 The dashboard includes:
 
@@ -78,7 +78,7 @@ Data Cleaning & Transformation
 
 Slicers and Conditional Formatting
 
-# 🚀 How to Use
+## 🚀 How to Use
 
 Open the Excel file
 
@@ -88,7 +88,7 @@ Use slicers to filter data dynamically
 
 Analyze charts and KPIs for insights
 
-# 📊 Key Insights (Example)
+## 📊 Key Insights (Example)
 
 Coffee products contribute the highest revenue
 
@@ -100,10 +100,10 @@ Weekends may show higher sales trends
 
 (Replace with your actual insights from the dashboard)
 
-# 📁 File Structure
+## 📁 File Structure
 Coffee Shop Sales.xlsx   # Main Excel dashboard file
 README.md                # Project documentation
-# 🔄 Future Improvements
+## 🔄 Future Improvements
 
 Add customer segmentation analysis
 
@@ -113,7 +113,7 @@ Automate data refresh using Power Query
 
 Add forecasting for future sales trends
 
-# 🙏 Thank You
+## 🙏 Thank You
 
 Thank you for taking the time to explore this Coffee Shop Sales Dashboard.
 Your feedback and suggestions are always welcome and appreciated!
